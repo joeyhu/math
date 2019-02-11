@@ -10,3 +10,8 @@ learn math by python
 
 #矩阵
 1. Det.py 计算矩阵的行列式
+
+#机器学习
+1. EuclideanNorm.py 计算欧几里得距离
+2. Cosine.py 夹角余弦判断向量的相似度
+
